@@ -1,6 +1,6 @@
 ### Olá, Sou Fernando! 👋
 
-- </h5>
+</h5>
 - 👨🏻‍🎓 Formado em Análise e Desenvolvimento de Sistemas - Mackenzie
 - 📃 Certificação PSM1 e SFPC
 
