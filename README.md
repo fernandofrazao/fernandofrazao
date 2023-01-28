@@ -1,6 +1,6 @@
 ### Olá, Sou Fernando! 👋
 
-- 👨🏻‍💻 Hoje trabalho com Front-End e Scrum Master</h5>
+- </h5>
 - 👨🏻‍🎓 Formado em Análise e Desenvolvimento de Sistemas - Mackenzie
 - 📃 Certificação PSM1 e SFPC
 
