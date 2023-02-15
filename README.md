@@ -1,6 +1,6 @@
 ### Olá, Sou Fernando! 👋
 
--  Estou em busca de oportunidades em back-end e  front-end</h5>
+-  Estou em busca de oportunidades em back-end ou front-end</h5>
 - 👨🏻‍🎓 Formado em Análise e Desenvolvimento de Sistemas - Mackenzie
 - 📃 Certificação PSM1 e SFPC
 
